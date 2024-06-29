@@ -25,7 +25,7 @@ Product Management\
 POST /products: Add a new product.\
 GET /products: Retrieve a list of all products.\
 PUT /products/int:id: Update an existing product.\
-DELETE /products/int:id: Delete a product.\
+DELETE /products/int:id: Delete a product.
 
 Order Management\
 POST /orders: Place a new order.\
