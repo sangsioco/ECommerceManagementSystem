@@ -8,13 +8,13 @@ Instruction:
 
 The application will be available at http://127.0.0.1:5000.
 
-API Endpoints n\
-Customer Management
-GET /customers: Retrieve a list of all customers.
-POST /customers: Add a new customer.
-PUT /customers/int:id: Update an existing customer.
-DELETE /customers/int:id: Delete a customer.
-Customer Account Management
+API Endpoints \
+Customer Management\
+GET /customers: Retrieve a list of all customers.\
+POST /customers: Add a new customer.\
+PUT /customers/int:id: Update an existing customer.\
+DELETE /customers/int:id: Delete a customer.\
+Customer Account Management\\
 POST /customer_accounts: Create a new customer account.
 GET /customer_accounts/int:id: Retrieve a customer account.
 PUT /customer_accounts/int:id: Update a customer account.
