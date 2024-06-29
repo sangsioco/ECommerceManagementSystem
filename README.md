@@ -8,7 +8,7 @@ Instruction:
 
 The application will be available at http://127.0.0.1:5000.
 
-API Endpoints
+API Endpoints n\
 Customer Management
 GET /customers: Retrieve a list of all customers.
 POST /customers: Add a new customer.
